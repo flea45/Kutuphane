@@ -1,0 +1,55 @@
+/*Kitaplar ve Navbar Section */
+#kitaplar,#title{
+    background-color: #393E46;
+}
+.cards{
+    padding:3% 10%;
+}
+.card-resim{
+    height:270px;
+}
+.card{
+    text-align: center;
+}
+.kitap-ad{
+    padding-top: 7%;
+}
+.kitap-card{
+    padding: 3% 2%;
+}
+
+.giris-buton{
+    margin-left: 1%;
+}
+/*Yazarlar Section*/
+#yazarlar {
+    background-color: #00ADB5;
+    text-align: center;
+    color: white;
+
+  }
+  .yazarlar-text {
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  #yazarlar-carousel{
+      padding-top: 5% ;
+  }
+  .carousel-item{
+    padding: 7% 15%;
+}
+/*İletisim Section*/
+#iletisim{
+    background-color: #eeeeee;
+    padding:5% 10%;
+    text-align: center;
+}
+#iletisim h2{
+    color:#393E46;
+    padding-bottom: 2%;
+}
+.telefon, .mail{
+    color:#00ADB5;
+}
+
+
